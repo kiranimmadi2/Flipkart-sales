@@ -1,2 +1,2 @@
-# Flipkart-sales
-flipkart sales and review analysis
+# Flipkart-Mobile-Sales
+flipkart mobile sales and review analysis
